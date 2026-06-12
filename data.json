@@ -1,16 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "1781298829552",
-      "name": "dddddddddddd",
-      "ver": "v1.0",
-      "cat": "Productividad",
-      "desc": "ddddddddddddddddd",
-      "tags": [],
-      "gh": "",
-      "dlUrl": "https://www.youtube.com/watch?v=w4ybJYvKM_o&list=RDw4ybJYvKM_o&start_radio=1"
-    }
-  ],
+  "projects": [],
   "tools": [
     {
       "id": "1781215876488",
