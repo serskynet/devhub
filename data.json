@@ -1,22 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "1780951840736",
-      "name": "Doc-vision",
-      "ver": "V1.0",
-      "cat": "AutomatizaciÃÂ³n",
-      "desc": "**DocVision** transforma documentos fÃÂ­sicos en archivos digitales editables en segundos. Utiliza tecnologÃÂ­a OCR avanzada para reconocer texto, tablas y formatos, exportando resultados a Word y Excel con la mayor fidelidad posible. Ideal para empresas, estudiantes, oficinas y profesionales que necesitan digitalizar informaciÃÂ³n de forma rÃÂ¡pida y eficiente.",
-      "tags": [
-        "Python",
-        "Tkinter",
-        "OpenCV",
-        "Tesseract OCR",
-        "python-docx OpenPyXL"
-      ],
-      "gh": "",
-      "dlUrl": "https://github.com/serskynet/Hnexux-Downloads/releases/tag/docvision-v1.0"
-    }
-  ],
+  "projects": [],
   "tools": [
     {
       "id": "1780953567207",
